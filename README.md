@@ -11,6 +11,5 @@
 ## 📧 Connect with me
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tharaujo17/)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/thiago17__/)
-<hr />
 
-[![My GitHub Statistics](https://github-readme-stats-tharaujo17s-projects.vercel.app/api?username=tharaujo17&show_icons=true&theme=transparent)]
+![My GitHub Statistics](https://github-readme-stats-tharaujo17s-projects.vercel.app/api?username=tharaujo17&show_icons=true&theme=transparent)
