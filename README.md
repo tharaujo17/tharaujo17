@@ -1,7 +1,8 @@
 # Hello World! I'm Thiago Araújo 👋
 
 - 🔭 Computer Science student at CESAR School.
-- 🌱 I'm currently focusing my studies on JS, Python and Cybersecurity.
+- 👨🏾‍💻 Software Engineer Intern at CESAR
+- 🌱 I'm currently focusing my studies on JS, React and Angular.
 - 🗺 Living in Recife, Pernambuco.
 - 💬 I speak Portuguese (fluent) and English (reading and writing).
 
