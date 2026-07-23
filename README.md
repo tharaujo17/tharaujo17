@@ -1,6 +1,5 @@
 # Hello World! I'm Thiago Araújo 👋
 
-- 🔭 Computer Science student at CESAR School.
 - 👨🏾‍💻 Jr QA Engineer at CESAR
 - 🌱 I'm currently focusing my studies on Playwright and Typescript.
 - 🗺 Living in Recife, Pernambuco.
