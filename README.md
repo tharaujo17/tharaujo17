@@ -1,6 +1,6 @@
 # Hello World! I'm Thiago Araújo 👋
 
-- 👨🏾‍💻 Jr QA Engineer at CESAR
+- 👨🏾‍💻 Jr QA Engineer
 - 🌱 I'm currently focusing my studies on Playwright and Typescript.
 - 🗺 Living in Recife, Pernambuco.
 - 💬 I speak Portuguese (fluent) and English (reading and writing).
